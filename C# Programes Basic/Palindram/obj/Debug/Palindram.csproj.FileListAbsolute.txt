@@ -1,0 +1,6 @@
+C:\Chandramohan\Practice\C# Programes Basic\Palindram\bin\Debug\Palindram.exe.config
+C:\Chandramohan\Practice\C# Programes Basic\Palindram\bin\Debug\Palindram.exe
+C:\Chandramohan\Practice\C# Programes Basic\Palindram\bin\Debug\Palindram.pdb
+C:\Chandramohan\Practice\C# Programes Basic\Palindram\obj\Debug\Palindram.csprojResolveAssemblyReference.cache
+C:\Chandramohan\Practice\C# Programes Basic\Palindram\obj\Debug\Palindram.exe
+C:\Chandramohan\Practice\C# Programes Basic\Palindram\obj\Debug\Palindram.pdb

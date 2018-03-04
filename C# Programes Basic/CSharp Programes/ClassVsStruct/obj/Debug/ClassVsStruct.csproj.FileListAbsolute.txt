@@ -1,0 +1,6 @@
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\ClassVsStruct\bin\Debug\ClassVsStruct.exe.config
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\ClassVsStruct\bin\Debug\ClassVsStruct.exe
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\ClassVsStruct\bin\Debug\ClassVsStruct.pdb
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\ClassVsStruct\obj\Debug\ClassVsStruct.csprojResolveAssemblyReference.cache
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\ClassVsStruct\obj\Debug\ClassVsStruct.exe
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\ClassVsStruct\obj\Debug\ClassVsStruct.pdb

@@ -1,0 +1,6 @@
+C:\Chandramohan\Practice\C# Programes Basic\PrimeLogic\PrimeLogic\bin\Debug\PrimeLogic.exe.config
+C:\Chandramohan\Practice\C# Programes Basic\PrimeLogic\PrimeLogic\bin\Debug\PrimeLogic.exe
+C:\Chandramohan\Practice\C# Programes Basic\PrimeLogic\PrimeLogic\bin\Debug\PrimeLogic.pdb
+C:\Chandramohan\Practice\C# Programes Basic\PrimeLogic\PrimeLogic\obj\Debug\PrimeLogic.csprojResolveAssemblyReference.cache
+C:\Chandramohan\Practice\C# Programes Basic\PrimeLogic\PrimeLogic\obj\Debug\PrimeLogic.exe
+C:\Chandramohan\Practice\C# Programes Basic\PrimeLogic\PrimeLogic\obj\Debug\PrimeLogic.pdb

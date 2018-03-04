@@ -1,0 +1,9 @@
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\Lazy Type\bin\Debug\Lazy Type.exe.config
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\Lazy Type\bin\Debug\Lazy Type.exe
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\Lazy Type\bin\Debug\Lazy Type.pdb
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\Lazy Type\obj\Debug\Lazy Type.csprojResolveAssemblyReference.cache
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\Lazy Type\obj\Debug\Lazy Type.exe
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\Lazy Type\obj\Debug\Lazy Type.pdb
+F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\Lazy Type\bin\Debug\Lazy Type.exe.config
+F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\Lazy Type\obj\Debug\Lazy Type.exe
+F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\Lazy Type\obj\Debug\Lazy Type.pdb

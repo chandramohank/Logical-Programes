@@ -1,0 +1,5 @@
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\WebApplication1\bin\WebApplication1.dll
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\WebApplication1\bin\WebApplication1.pdb
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\WebApplication1\obj\Debug\WebApplication1.pdb

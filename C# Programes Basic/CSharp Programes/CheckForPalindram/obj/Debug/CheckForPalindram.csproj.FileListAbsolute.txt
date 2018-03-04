@@ -1,0 +1,9 @@
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\CheckForPalindram\bin\Debug\CheckForPalindram.exe.config
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\CheckForPalindram\bin\Debug\CheckForPalindram.exe
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\CheckForPalindram\bin\Debug\CheckForPalindram.pdb
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\CheckForPalindram\obj\Debug\CheckForPalindram.csprojResolveAssemblyReference.cache
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\CheckForPalindram\obj\Debug\CheckForPalindram.exe
+C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\CheckForPalindram\obj\Debug\CheckForPalindram.pdb
+F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\CheckForPalindram\bin\Debug\CheckForPalindram.exe.config
+F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\CheckForPalindram\obj\Debug\CheckForPalindram.exe
+F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\CheckForPalindram\obj\Debug\CheckForPalindram.pdb

@@ -1,0 +1,1 @@
+﻿com.Hello2 = new com.Hello.test();
