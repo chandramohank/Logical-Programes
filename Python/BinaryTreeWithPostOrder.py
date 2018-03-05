@@ -40,3 +40,5 @@ postOrder = [8, 4, 5, 2, 6, 7, 3, 1]
 buildTree.postIndex=len(postOrder)-1
 finalnode=buildTree(inOrder,postOrder,0,len(postOrder)-1)
 printInorder(finalnode)
+
+
