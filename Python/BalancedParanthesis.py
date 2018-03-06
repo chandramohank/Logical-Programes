@@ -1,7 +1,7 @@
 arr = []
 
 def parens(left, right, string):
-  print(left,right,)
+  print(left,right,string)
   # if no more brackets can be added then add the final balanced string
   if left == 0 and right == 0:
     arr.append(string)
