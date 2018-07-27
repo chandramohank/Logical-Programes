@@ -7,3 +7,6 @@ C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\Action-Delegate-Fun
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\Action-Delegate-Func\bin\Debug\Action-Delegate-Func.exe.config
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\Action-Delegate-Func\obj\Debug\Action-Delegate-Func.exe
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\Action-Delegate-Func\obj\Debug\Action-Delegate-Func.pdb
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\CSharp Programes\Action-Delegate-Func\bin\Debug\Action-Delegate-Func.exe.config
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\CSharp Programes\Action-Delegate-Func\obj\Debug\Action-Delegate-Func.exe
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\CSharp Programes\Action-Delegate-Func\obj\Debug\Action-Delegate-Func.pdb

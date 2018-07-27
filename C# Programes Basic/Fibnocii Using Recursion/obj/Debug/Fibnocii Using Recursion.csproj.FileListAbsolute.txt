@@ -4,3 +4,9 @@ C:\Chandramohan\Practice\C# Programes Basic\Fibnocii Using Recursion\bin\Debug\F
 C:\Chandramohan\Practice\C# Programes Basic\Fibnocii Using Recursion\bin\Debug\Fibnocii Using Recursion.pdb
 C:\Chandramohan\Practice\C# Programes Basic\Fibnocii Using Recursion\obj\Debug\Fibnocii Using Recursion.exe
 C:\Chandramohan\Practice\C# Programes Basic\Fibnocii Using Recursion\obj\Debug\Fibnocii Using Recursion.pdb
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\Fibnocii Using Recursion\bin\Debug\Fibnocii Using Recursion.exe.config
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\Fibnocii Using Recursion\obj\Debug\Fibnocii Using Recursion.exe
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\Fibnocii Using Recursion\obj\Debug\Fibnocii Using Recursion.pdb
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\Fibnocii Using Recursion\obj\Debug\Fibnocii Using Recursion.csprojResolveAssemblyReference.cache
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\Fibnocii Using Recursion\bin\Debug\Fibnocii Using Recursion.exe
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\Fibnocii Using Recursion\bin\Debug\Fibnocii Using Recursion.pdb

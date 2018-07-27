@@ -4,3 +4,6 @@ C:\Chandramohan\Practice\C# Programes Basic\MergeSort\MergeTwoSortedArrays\bin\D
 C:\Chandramohan\Practice\C# Programes Basic\MergeSort\MergeTwoSortedArrays\obj\Debug\MergeTwoSortedArrays.csprojResolveAssemblyReference.cache
 C:\Chandramohan\Practice\C# Programes Basic\MergeSort\MergeTwoSortedArrays\obj\Debug\MergeTwoSortedArrays.exe
 C:\Chandramohan\Practice\C# Programes Basic\MergeSort\MergeTwoSortedArrays\obj\Debug\MergeTwoSortedArrays.pdb
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\MergeSort\MergeTwoSortedArrays\bin\Debug\MergeTwoSortedArrays.exe.config
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\MergeSort\MergeTwoSortedArrays\obj\Debug\MergeTwoSortedArrays.exe
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\MergeSort\MergeTwoSortedArrays\obj\Debug\MergeTwoSortedArrays.pdb

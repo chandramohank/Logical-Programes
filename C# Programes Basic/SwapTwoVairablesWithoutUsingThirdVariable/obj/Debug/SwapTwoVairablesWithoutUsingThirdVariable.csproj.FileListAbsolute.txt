@@ -4,3 +4,6 @@ C:\Chandramohan\Practice\C# Programes Basic\SwapTwoVairablesWithoutUsingThirdVar
 C:\Chandramohan\Practice\C# Programes Basic\SwapTwoVairablesWithoutUsingThirdVariable\obj\Debug\SwapTwoVairablesWithoutUsingThirdVariable.csprojResolveAssemblyReference.cache
 C:\Chandramohan\Practice\C# Programes Basic\SwapTwoVairablesWithoutUsingThirdVariable\obj\Debug\SwapTwoVairablesWithoutUsingThirdVariable.exe
 C:\Chandramohan\Practice\C# Programes Basic\SwapTwoVairablesWithoutUsingThirdVariable\obj\Debug\SwapTwoVairablesWithoutUsingThirdVariable.pdb
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\SwapTwoVairablesWithoutUsingThirdVariable\bin\Debug\SwapTwoVairablesWithoutUsingThirdVariable.exe.config
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\SwapTwoVairablesWithoutUsingThirdVariable\obj\Debug\SwapTwoVairablesWithoutUsingThirdVariable.exe
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\SwapTwoVairablesWithoutUsingThirdVariable\obj\Debug\SwapTwoVairablesWithoutUsingThirdVariable.pdb

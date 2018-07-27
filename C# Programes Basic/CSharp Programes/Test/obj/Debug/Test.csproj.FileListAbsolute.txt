@@ -4,3 +4,6 @@ F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Program
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\Test\obj\Debug\Test.exe
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\Test\obj\Debug\Test.pdb
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\CSharp Programes\Test\bin\Debug\Test.exe.config
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\CSharp Programes\Test\obj\Debug\Test.exe
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\CSharp Programes\Test\obj\Debug\Test.pdb

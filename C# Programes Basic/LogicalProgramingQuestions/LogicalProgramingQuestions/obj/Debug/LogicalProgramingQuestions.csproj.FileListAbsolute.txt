@@ -1,0 +1,6 @@
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\LogicalProgramingQuestions\LogicalProgramingQuestions\bin\Debug\LogicalProgramingQuestions.exe.config
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\LogicalProgramingQuestions\LogicalProgramingQuestions\bin\Debug\LogicalProgramingQuestions.exe
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\LogicalProgramingQuestions\LogicalProgramingQuestions\bin\Debug\LogicalProgramingQuestions.pdb
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\LogicalProgramingQuestions\LogicalProgramingQuestions\obj\Debug\LogicalProgramingQuestions.csprojResolveAssemblyReference.cache
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\LogicalProgramingQuestions\LogicalProgramingQuestions\obj\Debug\LogicalProgramingQuestions.exe
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\LogicalProgramingQuestions\LogicalProgramingQuestions\obj\Debug\LogicalProgramingQuestions.pdb
