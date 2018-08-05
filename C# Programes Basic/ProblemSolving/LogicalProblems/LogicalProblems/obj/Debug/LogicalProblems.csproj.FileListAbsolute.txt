@@ -1,0 +1,6 @@
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\ProblemSolving\LogicalProblems\LogicalProblems\bin\Debug\LogicalProblems.exe.config
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\ProblemSolving\LogicalProblems\LogicalProblems\bin\Debug\LogicalProblems.exe
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\ProblemSolving\LogicalProblems\LogicalProblems\bin\Debug\LogicalProblems.pdb
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\ProblemSolving\LogicalProblems\LogicalProblems\obj\Debug\LogicalProblems.csprojResolveAssemblyReference.cache
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\ProblemSolving\LogicalProblems\LogicalProblems\obj\Debug\LogicalProblems.exe
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\ProblemSolving\LogicalProblems\LogicalProblems\obj\Debug\LogicalProblems.pdb
