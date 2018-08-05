@@ -1,7 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+<<<<<<< HEAD
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
+=======
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+>>>>>>> cf1f75e2913532121355cdb5309bc1898586c66c
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp Programes", "CSharp Programes\CSharp Programes.csproj", "{562DDF46-7792-42C8-912B-F2C01DED045F}"
 EndProject
@@ -33,9 +38,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ienumerable Ienumertor  Repeater", "Ienumerable Ienumertor  Repeater\Ienumerable Ienumertor  Repeater.csproj", "{C639F0F0-F815-4F49-81DD-1AC6925A7A63}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{30C758A8-FA35-426A-AF01-A11054AF228B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstarctWithInterfcae", "AbstarctWithInterfcae\AbstarctWithInterfcae.csproj", "{0B1A6545-8BBF-4057-8052-C3DA0893606D}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Implementations", "Array Implementations\Array Implementations.csproj", "{1C940C05-3729-4AC6-8A25-730E167B6E21}"
+>>>>>>> cf1f75e2913532121355cdb5309bc1898586c66c
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -103,6 +112,7 @@ Global
 		{C639F0F0-F815-4F49-81DD-1AC6925A7A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C639F0F0-F815-4F49-81DD-1AC6925A7A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C639F0F0-F815-4F49-81DD-1AC6925A7A63}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{30C758A8-FA35-426A-AF01-A11054AF228B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{30C758A8-FA35-426A-AF01-A11054AF228B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30C758A8-FA35-426A-AF01-A11054AF228B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -111,6 +121,12 @@ Global
 		{0B1A6545-8BBF-4057-8052-C3DA0893606D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B1A6545-8BBF-4057-8052-C3DA0893606D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B1A6545-8BBF-4057-8052-C3DA0893606D}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{1C940C05-3729-4AC6-8A25-730E167B6E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C940C05-3729-4AC6-8A25-730E167B6E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C940C05-3729-4AC6-8A25-730E167B6E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C940C05-3729-4AC6-8A25-730E167B6E21}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> cf1f75e2913532121355cdb5309bc1898586c66c
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

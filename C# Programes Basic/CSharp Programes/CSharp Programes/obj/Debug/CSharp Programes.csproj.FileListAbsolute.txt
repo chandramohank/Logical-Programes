@@ -10,6 +10,12 @@ F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Program
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\CSharp Programes\bin\Debug\CSharp Programes.exe
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\CSharp Programes\bin\Debug\CSharp Programes.pdb
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\CSharp Programes\obj\Debug\CSharp Programes.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
 F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\CSharp Programes\bin\Debug\CSharp Programes.exe.config
 F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\CSharp Programes\obj\Debug\CSharp Programes.exe
 F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\CSharp Programes\obj\Debug\CSharp Programes.pdb
+=======
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\CSharp Programes\CSharp Programes\bin\Debug\CSharp Programes.exe.config
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\CSharp Programes\CSharp Programes\obj\Debug\CSharp Programes.exe
+D:\Documents\Study Meterials\Logical-Programes\C# Programes Basic\CSharp Programes\CSharp Programes\obj\Debug\CSharp Programes.pdb
+>>>>>>> cf1f75e2913532121355cdb5309bc1898586c66c
