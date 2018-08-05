@@ -1,0 +1,6 @@
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\Generics\bin\Debug\Generics.exe.config
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\Generics\bin\Debug\Generics.exe
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\Generics\bin\Debug\Generics.pdb
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\Generics\obj\Debug\Generics.exe
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\Generics\obj\Debug\Generics.pdb

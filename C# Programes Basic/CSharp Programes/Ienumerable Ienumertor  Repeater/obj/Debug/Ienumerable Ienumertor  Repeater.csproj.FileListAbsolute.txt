@@ -4,3 +4,9 @@ F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Program
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\Ienumerable Ienumertor  Repeater\obj\Debug\Ienumerable Ienumertor  Repeater.csprojResolveAssemblyReference.cache
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\Ienumerable Ienumertor  Repeater\obj\Debug\Ienumerable Ienumertor  Repeater.exe
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\Ienumerable Ienumertor  Repeater\obj\Debug\Ienumerable Ienumertor  Repeater.pdb
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\Ienumerable Ienumertor  Repeater\bin\Debug\Ienumerable Ienumertor  Repeater.exe.config
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\Ienumerable Ienumertor  Repeater\obj\Debug\Ienumerable Ienumertor  Repeater.exe
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\Ienumerable Ienumertor  Repeater\obj\Debug\Ienumerable Ienumertor  Repeater.pdb
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\Ienumerable Ienumertor  Repeater\bin\Debug\Ienumerable Ienumertor  Repeater.exe
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\Ienumerable Ienumertor  Repeater\bin\Debug\Ienumerable Ienumertor  Repeater.pdb
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\Ienumerable Ienumertor  Repeater\obj\Debug\Ienumerable Ienumertor  Repeater.csprojResolveAssemblyReference.cache

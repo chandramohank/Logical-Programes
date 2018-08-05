@@ -8,11 +8,11 @@ namespace CSharp_Programes
 {
     public class Person
     {
-        public const double TestVaribale = 3.0;
+        public  const double TestVaribale = 3.0;
         public string Name { get; set; }
 
         public static readonly int readonlyvariable ;
-
+        
         public Person() { }
 
         //Person(int x) 

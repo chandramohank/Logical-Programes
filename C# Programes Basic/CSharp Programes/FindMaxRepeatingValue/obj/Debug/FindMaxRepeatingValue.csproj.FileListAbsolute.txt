@@ -10,3 +10,6 @@ F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Program
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\FindMaxRepeatingValue\bin\Debug\FindMaxRepeatingValue.exe
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\FindMaxRepeatingValue\bin\Debug\FindMaxRepeatingValue.pdb
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\FindMaxRepeatingValue\obj\Debug\FindMaxRepeatingValue.csprojResolveAssemblyReference.cache
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\FindMaxRepeatingValue\bin\Debug\FindMaxRepeatingValue.exe.config
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\FindMaxRepeatingValue\obj\Debug\FindMaxRepeatingValue.exe
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\FindMaxRepeatingValue\obj\Debug\FindMaxRepeatingValue.pdb

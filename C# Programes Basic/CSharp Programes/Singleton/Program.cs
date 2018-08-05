@@ -27,7 +27,9 @@ namespace Singleton
                 return instance;
             }
         }
-    } 
+    }
+      
+
     class Program
     {
         static void Main(string[] args)

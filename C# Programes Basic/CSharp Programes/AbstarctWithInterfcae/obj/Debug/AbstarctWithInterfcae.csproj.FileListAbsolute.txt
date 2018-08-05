@@ -1,0 +1,6 @@
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\AbstarctWithInterfcae\bin\Debug\AbstarctWithInterfcae.exe.config
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\AbstarctWithInterfcae\bin\Debug\AbstarctWithInterfcae.exe
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\AbstarctWithInterfcae\bin\Debug\AbstarctWithInterfcae.pdb
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\AbstarctWithInterfcae\obj\Debug\AbstarctWithInterfcae.csprojResolveAssemblyReference.cache
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\AbstarctWithInterfcae\obj\Debug\AbstarctWithInterfcae.exe
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\AbstarctWithInterfcae\obj\Debug\AbstarctWithInterfcae.pdb

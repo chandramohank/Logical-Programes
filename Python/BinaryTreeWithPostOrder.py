@@ -14,7 +14,7 @@ def buildTree(inOrder,postOrder,start,end):
     node=Node(postOrder[buildTree.postIndex])
     buildTree.postIndex-=1
     if start==end:
-        return node
+         return node
     inIndex=search(inOrder,start,end,node.data)
     
     node.right=buildTree(inOrder,postOrder,inIndex+1,end)
@@ -35,7 +35,7 @@ def printInorder(node):
     # now recur on right child
     printInorder(node.right)
 
-inOrder=[4, 8, 2, 5, 1, 6, 3, 7]
+inOrder=[8,4, 2, 5, 1, 6, 3, 7]
 postOrder = [8, 4, 5, 2, 6, 7, 3, 1]
 buildTree.postIndex=len(postOrder)-1
 finalnode=buildTree(inOrder,postOrder,0,len(postOrder)-1)

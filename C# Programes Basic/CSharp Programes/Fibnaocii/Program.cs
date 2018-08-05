@@ -39,6 +39,7 @@ namespace Fibnaocii
                 Console.WriteLine(c);
             }
 
+
             Console.ReadLine();
         }
 

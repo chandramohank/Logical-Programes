@@ -7,3 +7,6 @@ C:\Chandramohan\Practice\C# Programes Basic\CSharp Programes\CheckForPalindram\o
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\CheckForPalindram\bin\Debug\CheckForPalindram.exe.config
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\CheckForPalindram\obj\Debug\CheckForPalindram.exe
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\CheckForPalindram\obj\Debug\CheckForPalindram.pdb
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\CheckForPalindram\bin\Debug\CheckForPalindram.exe.config
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\CheckForPalindram\obj\Debug\CheckForPalindram.exe
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\CheckForPalindram\obj\Debug\CheckForPalindram.pdb

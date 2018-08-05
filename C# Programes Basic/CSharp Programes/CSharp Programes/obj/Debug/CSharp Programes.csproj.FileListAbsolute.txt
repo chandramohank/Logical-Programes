@@ -10,3 +10,6 @@ F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Program
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\CSharp Programes\bin\Debug\CSharp Programes.exe
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\CSharp Programes\bin\Debug\CSharp Programes.pdb
 F:\.net practicall programs\C# Programes Basic\C# Programes Basic\CSharp Programes\CSharp Programes\obj\Debug\CSharp Programes.csprojResolveAssemblyReference.cache
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\CSharp Programes\bin\Debug\CSharp Programes.exe.config
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\CSharp Programes\obj\Debug\CSharp Programes.exe
+F:\.net practicall programs\Logical Programes\Logical-Programes\C# Programes Basic\CSharp Programes\CSharp Programes\obj\Debug\CSharp Programes.pdb

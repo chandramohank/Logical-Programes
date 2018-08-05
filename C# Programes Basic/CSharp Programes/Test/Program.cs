@@ -9,8 +9,8 @@ namespace Test
     class Program
     {
         public static void mostrepeatingnumber()
-        {
-
+        {         
+        
             //Find most repeating word in array
             int[] array = new int[] { 1, 3, 5, 4, 5, 2, 5, 1, 4 };
             var res = array.GroupBy(x => x).OrderByDescending(x => x.Count()).FirstOrDefault().FirstOrDefault();
